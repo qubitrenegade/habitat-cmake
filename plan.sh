@@ -1,5 +1,5 @@
 pkg_name=cmake
-pkg_origin=qubitrenegade
+pkg_origin=qbr
 _base_version=3.10
 pkg_version=${_base_version}.2
 pkg_maintainer='The Habitat Maintainers <humans@habitat.sh>'
